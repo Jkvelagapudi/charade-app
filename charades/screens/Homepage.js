@@ -8,6 +8,7 @@ export default class HomePage extends React.Component{
   render(){
     return(
       <View style={{backgroundColor: '#B491C8', flex: 1}}>
+        
       <SafeAreaProvider>
       
       <Header
